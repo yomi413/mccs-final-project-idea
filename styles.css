@@ -62,6 +62,7 @@
   }
 }
 
+/* cards */
 * {
   box-sizing: border-box;
 }
@@ -80,7 +81,7 @@
 .card-body p {
   color: black;
   font-weight: 500;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 /* Remove extra left and right margins, due to padding */
